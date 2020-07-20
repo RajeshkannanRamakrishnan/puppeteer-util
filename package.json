@@ -10,6 +10,6 @@
   "author": "Rajeshkannan R<rrajeshkannanbca@gmail.com>",
   "license": "ISC",
   "dependencies": {
-    "puppeteer-core": "^3.0.2"
+    "puppeteer-core": "^5.2.0"
   }
 }
